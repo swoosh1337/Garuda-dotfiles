@@ -1,0 +1,86 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Demoapp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Demo app – MainActivity.java [Demo_app.app.main]" projectWorkspaceId="2MjnpujY4XlgBlitO30F0UsLkt5">
+              <option name="activationTimestamp" value="1678294919289" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9619390" />
+              <option name="buildTimestamp" value="1676595114268" />
+              <frame x="0" y="-20" width="958" height="1076" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1678294914886" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Mydemooapp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Mydemoo app – activity_main.xml [Mydemoo_app.app.main]" projectWorkspaceId="2MjxhnXFCSU3ccYJ4U7gIeoG9G6">
+              <option name="activationTimestamp" value="1678895880826" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9619390" />
+              <option name="buildTimestamp" value="1676595112694" />
+              <frame x="-2" y="-22" width="1924" height="1080" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1678294921359" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/4.1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="4.1 – ._MainActivity.java" projectWorkspaceId="2N3bsxzdt0mbNe3eHaiIvybeCrx">
+              <option name="activationTimestamp" value="1678896291736" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9619390" />
+              <option name="buildTimestamp" value="1676595075156" />
+              <frame x="-2" y="-22" width="1924" height="1080" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1678896177871" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/4.1(1)">
+          <value>
+            <RecentProjectMetaInfo frameTitle="4.1(1) – AndroidManifest.xml" projectWorkspaceId="2N3c4f3ex7AMUO0Vfrq1VdPgwtc">
+              <option name="activationTimestamp" value="1678902167572" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9619390" />
+              <option name="buildTimestamp" value="1676595075156" />
+              <frame x="0" y="-20" width="958" height="1076" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1678902138055" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Fading_anim">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Fading_anim – activity_main.xml [Fading_anim.app.main]" projectWorkspaceId="2N3oTxJW9OoiA36fraTX3hc3e93">
+              <option name="activationTimestamp" value="1678973711221" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9619390" />
+              <option name="buildTimestamp" value="1676595075156" />
+              <frame x="0" y="-20" width="958" height="1076" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1678973700868" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/WeatherApp">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2N69X21CHRfm844LM2nV689CPK2">
+              <option name="activationTimestamp" value="1679067264537" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9619390" />
+              <option name="buildTimestamp" value="1676595075156" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1678973712827" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

@@ -1,0 +1,22 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Demoapp" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/Fading_anim" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/Mydemooapp" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/WeatherApp" value="true" />
+        <entry key="$USER_HOME$/Downloads/4.1" value="true" />
+        <entry key="$USER_HOME$/Downloads/4.1(1)" value="true" />
+        <entry key="$USER_HOME$/Downloads/4.1/LayoutDemo" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/4.1" />
+      </list>
+    </option>
+  </component>
+</application>

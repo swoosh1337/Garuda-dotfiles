@@ -1,0 +1,163 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="4" l="1678976505629" />
+    </e>
+    <e n="$Delete">
+      <i c="16" l="1678974367358" />
+    </e>
+    <e n="$Paste">
+      <i c="12" l="1678976390622" />
+    </e>
+    <e n="$Undo">
+      <i c="11" l="1678976207415" />
+    </e>
+    <e n="About">
+      <i c="1" l="1678895778402" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="1" l="1678302663909" />
+    </e>
+    <e n="Adtui.ZoomInAction">
+      <i c="7" l="1678976409654" />
+    </e>
+    <e n="Adtui.ZoomOutAction">
+      <i c="8" l="1678975200093" />
+    </e>
+    <e n="Adtui.ZoomToActualAction">
+      <i c="1" l="1678895604360" />
+    </e>
+    <e n="Android.DeviceManager">
+      <i c="2" l="1678975741992" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="3" l="1678975975422" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1678896151295" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="333" l="1678976769619" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="17" l="1678305360059" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1678976248323" />
+    </e>
+    <e n="EditorDown">
+      <i c="45" l="1678975638770" />
+    </e>
+    <e n="EditorEnter">
+      <i c="42" l="1678975939836" />
+    </e>
+    <e n="EditorLeft">
+      <i c="2" l="1678303076762" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1678975487550" />
+    </e>
+    <e n="EditorRight">
+      <i c="2" l="1678304234806" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1678975494531" />
+    </e>
+    <e n="EditorTab">
+      <i c="16" l="1678975421805" />
+    </e>
+    <e n="EditorUp">
+      <i c="20" l="1678975621212" />
+    </e>
+    <e n="NewProject">
+      <i c="3" l="1678973686665" />
+    </e>
+    <e n="OpenFile">
+      <i c="5" l="1678896276480" />
+    </e>
+    <e n="Run">
+      <i c="21" l="1678976801301" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1678301954754" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1678296509655" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="3" l="1678975499058" />
+    </e>
+    <e n="ShowSettings">
+      <i c="4" l="1678895003102" />
+    </e>
+    <e n="Stop">
+      <i c="3" l="1678976454131" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1678289954806" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1678896165471" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="4" l="1678896163571" />
+    </e>
+    <e n="android.deploy.ApplyChanges">
+      <i c="1" l="1678305410619" />
+    </e>
+    <e n="com.android.tools.adtui.workbench.AttachedToolWindow$FindAction">
+      <i c="1" l="1678296523774" />
+    </e>
+    <e n="com.android.tools.adtui.workbench.AttachedToolWindow$GearAction">
+      <i c="2" l="1678974967997" />
+    </e>
+    <e n="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction">
+      <i c="6" l="1678976146836" />
+    </e>
+    <e n="com.github.dinbtechit.vscodetheme.actions.AlwaysApplyThemeAction">
+      <i c="1" l="1678295113511" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="1" l="1678301961643" />
+    </e>
+    <e n="com.intellij.framework.detection.impl.FrameworkDetectionManager$4">
+      <i c="1" l="1678896181938" />
+    </e>
+    <e n="com.intellij.ide.actions.CopyAction">
+      <i c="1" l="1678303579451" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1678295060196" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="1233" l="1678976769618" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="2" l="1678976357193" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="6" l="1678902461016" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1678291155040" />
+    </e>
+    <e n="com.intellij.refactoring.actions.RenameElementAction">
+      <i c="6" l="1678305251814" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="9" l="1678976454992" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="3" l="1678975886720" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="51" l="1678895205005" />
+    </e>
+    <e n="copilot.applyInlays">
+      <i c="31" l="1678976773654" />
+    </e>
+    <e n="copilot.loginGitHub">
+      <i c="1" l="1678295204805" />
+    </e>
+  </component>
+</application>
